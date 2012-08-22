@@ -1,10 +1,15 @@
-Readme
-======
+Overview
+========
 
 This repository contains versions of `playerglobal.swc` which are used to target each major release of Adobe Flash Player by dynamically linking against the relevant swc when compiling with mxmlc or Falcon.
 
-To use, `git clone git://github.com/nexussays/playerglobal.git` to `<flex_sdk_root>/frameworks/libs/player`, eg:
-```bash
+Usage
+=====
+
+`git clone git://github.com/nexussays/playerglobal.git` to `<flex_sdk_root>/frameworks/libs/player`
+
+For example:
+```
 nexus@NEXUS-TABLET C:\develop\sdk\flex_sdk_4.6.0.23201\frameworks\libs
 $ rmdir player /s /q
 
