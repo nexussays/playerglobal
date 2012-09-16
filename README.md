@@ -6,15 +6,13 @@ This repository contains versions of `playerglobal.swc` which are used to target
 Usage
 =====
 
-`git clone git://github.com/nexussays/playerglobal.git` to `<flex_sdk_root>/frameworks/libs/player`
+Clone this repository to `frameworks/libs/player` in your Flex SDK directory. You can then simply `git pull` whenever a new version of Flash is released to get the new swc.
 
 For example:
 ```
-nexus@NEXUS-TABLET C:\develop\sdk\flex_sdk_4.6.0.23201\frameworks\libs
-$ rmdir player /s /q
-
-nexus@NEXUS-TABLET C:\develop\sdk\flex_sdk_4.6.0.23201\frameworks\libs
-$ git clone git://github.com/nexussays/playerglobal.git player
+cd C:\develop\sdk\flex_sdk_4.6.0.23201\frameworks\libs
+rmdir player /s /q
+git clone git://github.com/nexussays/playerglobal.git player
 ```
 
 > See http://sourceforge.net/adobe/flexsdk or http://www.adobe.com/go/flex_sdk to obtain the Flex SDK
