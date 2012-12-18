@@ -16,7 +16,7 @@ git clone git://github.com/nexussays/playerglobal.git player
 ```
 eg, Mac/Linux:
 ```bash
-cd /opt/adobe/flex_sdk_4.6
+cd /opt/adobe/flex_sdk_4.6/frameworks/libs
 sudo rm -rf player
 sudo git clone git://github.com/nexussays/playerglobal.git player
 ```
