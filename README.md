@@ -34,7 +34,7 @@ Setup
 Update
 ------
 
-Simply `git pull` whenever a new version of Flash is released to get the new swc. Or run the `update.bat` file on Windows.
+Simply `git pull` from `frameworks/libs/player` whenever a new version of Flash is released to get the new swc. Or run the `update.bat` file on Windows.
 
 
 Player Versions
