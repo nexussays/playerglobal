@@ -1,3 +1,8 @@
+Source
+======
+
+http://fpdownload.macromedia.com/get/flashplayer/installers/archive/playerglobal/playerglobal11_7.swc
+
 Release Notes
 =============
 
