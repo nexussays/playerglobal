@@ -1,7 +1,9 @@
 Overview
 ========
 
-This repository contains a version of `playerglobal.swc` (a library containing the API to Adobe Flash Player) corresponding to every major release of Adobe Flash Player. You can target the version of your choice by dynamically linking against the relevant swc when compiling with mxmlc or ASC 2.0 (eg, `-target=11.5`, `-target=10.1`).
+This repository contains a version of `playerglobal.swc` (a library containing the API to Adobe Flash Player) corresponding to every major release of Adobe Flash Player.
+
+You can target the Flash version of your choice by dynamically linking against the relevant swc with the `target` compiler flag when compiling with mxmlc or ASC 2.0 (eg, `-target=11.5`, `-target=10.1`).
 
 
 Usage
