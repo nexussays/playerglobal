@@ -17,7 +17,9 @@ Setup
    ```bash
    cd <flex_sdk_directory>
    ```
-
+   
+   > See http://flex.apache.org or http://www.adobe.com/go/flex_sdk to obtain the Flex SDK
+   
 2. Delete `frameworks/libs/player`.
    
    ```bash
@@ -31,12 +33,10 @@ Setup
    git clone git://github.com/nexussays/playerglobal.git frameworks/libs/player
    ```
 
-> See http://sourceforge.net/adobe/flexsdk or http://www.adobe.com/go/flex_sdk to obtain the Flex SDK
-
 Update
 ------
 
-Simply `git pull` from `frameworks/libs/player` whenever a new version of Flash is released to get the new swc. Or run the `update.bat` file on Windows.
+To get the latest SWCs, simply `git pull` from `frameworks/libs/player`. Or run the `update.bat` file on Windows.
 
 
 Player Versions
