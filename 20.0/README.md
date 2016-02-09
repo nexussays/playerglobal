@@ -10,7 +10,7 @@ https://helpx.adobe.com/flash-player/release-note/fp_20_air_20_release_notes.htm
 
 > Authoring for Flash Player 20
 >
-> To use the new Flash Player, you will need to target SWF version 30 by passing "-swf-version=31" as an extra compiler argument to the ASC 2.0 compiler.
+> To use the new Flash Player, you will need to target SWF version 31 by passing "-swf-version=31" as an extra compiler argument to the ASC 2.0 compiler.
 
 > Authoring for AIR 20 Update to the AIR 20 namespace
 >
