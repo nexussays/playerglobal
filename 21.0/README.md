@@ -1,12 +1,12 @@
 Source
 ======
 
-Adobe AIR 21 Beta SDK: http://labs.adobe.com/technologies/flashruntimes/air/
+http://fpdownload.macromedia.com/get/flashplayer/installers/archive/playerglobal/playerglobal21_0.swc
 
 Release Notes
 =============
 
-http://labsdownload.adobe.com/pub/labs/flashruntimes/shared/air21_flashplayer21_releasenotes.pdf
+https://helpx.adobe.com/flash-player/release-note/fp_21_air_21_release_notes.html
 
 > Authoring for Flash Player 21
 >
