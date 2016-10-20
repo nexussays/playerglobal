@@ -1,12 +1,12 @@
 Source
 ======
 
-Adobe AIR 22 Beta SDK: http://labs.adobe.com/technologies/flashruntimes/air/
+https://fpdownload.macromedia.com/get/flashplayer/updaters/22/playerglobal22_0.swc
 
 Release Notes
 =============
 
-http://labsdownload.adobe.com/pub/labs/flashruntimes/shared/air22_flashplayer22_releasenotes.pdf
+https://helpx.adobe.com/flash-player/release-note/fp_22_air_22_release_notes.html
 
 > Authoring for Flash Player 22
 >
