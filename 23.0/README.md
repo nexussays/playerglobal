@@ -1,7 +1,7 @@
 Source
 ======
 
-Adobe AIR 23 SDK: http://www.adobe.com/devnet/air/air-sdk-download.html
+https://fpdownload.macromedia.com/get/flashplayer/updaters/23/playerglobal23_0.swc
 
 Release Notes
 =============

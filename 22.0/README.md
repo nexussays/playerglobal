@@ -1,7 +1,7 @@
 Source
 ======
 
-Adobe AIR 22 SDK: http://www.adobe.com/devnet/air/air-sdk-download.html
+https://fpdownload.macromedia.com/get/flashplayer/updaters/22/playerglobal22_0.swc
 
 Release Notes
 =============
