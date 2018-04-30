@@ -10,7 +10,7 @@ https://helpx.adobe.com/flash-player/release-note/fp_25_air_25_release_notes.htm
 
 > Authoring for Flash Player 25
 >
-> To use the new Flash Player, you will need to target SWF version 33 by passing "-swf-version=34" as an extra compiler argument to the ASC 2.0 compiler.
+> To use the new Flash Player, you will need to target SWF version 36 by passing "-swf-version=36" as an extra compiler argument to the ASC 2.0 compiler.
 
 > Authoring for AIR 25 Update to the AIR 25 namespace
 >
